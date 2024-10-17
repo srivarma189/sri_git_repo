@@ -1,0 +1,11 @@
+build:
+  version: "V2"
+
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs "
+  contactDetails:
+    name: "Sri - Developer"
+    email: "sri@eazybank.com"
+  onCallSupport:
+    - 9962056066
+    - 7358060806

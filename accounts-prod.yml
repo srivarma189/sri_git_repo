@@ -1,0 +1,11 @@
+build:
+  version: "V1"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "SriVarma - Developer"
+    email: "srivarma@eazybank.com"
+  onCallSupport:
+    - 9962056066
+    - 7358060806
